@@ -53,3 +53,11 @@ La nativa se ha desarrollado cumpliendo los estandares de arquitecturas limpias,
 #### Uso del código
 
 Para ejecutar la app debes abrir el proyecto con Xcode10 y compilar con un simulador o dispositivo seleccionado, a continuación se abrirá la app automáticamente.
+
+
+## Autores
+
+> Alan Roldán Maillo
+> Daniel Arias Zamudio
+> Ruth Areli Martínez Reyes
+> Sergio Morales Machado

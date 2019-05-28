@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  CameraDemo
+
+  Created by Alan Roldán Maillo on 26/04/2019.
+  Copyright © 2019 Alan Roldán Maillo. All rights reserved.
+*/
+
+"understood"="Ok";
+"try_again"="Try again";
+"yes"="Yes";
+"no"="No";
+
+// MARK: - Main
+"title_project"="PartnerPlayRobot";
+"welcome_to"="Welcome to";
+"begin"="Begin";
+"main_loading"="Connecting";
+"reconnect_button"="⚠️ Reconnect";
+
+// MARK: - Error
+"error_not_connection_title"="Error connection";
+"error_not_connection_message"="Can't connect to the server, please try again later";
+
+// MARK: - Alert
+"are_sure_title"="Close game";
+"are_sure_message"="The connection will close, are you sure you want to leave?";
+
