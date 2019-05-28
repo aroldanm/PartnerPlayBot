@@ -57,7 +57,7 @@ Para ejecutar la app debes abrir el proyecto con Xcode10 y compilar con un simul
 
 ## Autores
 
-> Alan Roldán Maillo
-> Daniel Arias Zamudio
-> Ruth Areli Martínez Reyes
+> Alan Roldán Maillo,
+> Daniel Arias Zamudio,
+> Ruth Areli Martínez Reyes,
 > Sergio Morales Machado
